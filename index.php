@@ -1,5 +1,5 @@
 <?php 
 
-echo "mabuhay";
+echo "hi everyone";
 
  ?>
